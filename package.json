@@ -1,0 +1,35 @@
+{
+  "name": "bella-epoque",
+  "displayName": "Bella Époque",
+  "description": "A vintage editorial-inspired VS Code theme featuring warm ivory, dusty mauve, muted rose, terracotta, and deep espresso tones. Available in Light and Dark variants.",
+  "publisher": "noorainkhan",
+  "keywords": [
+  "theme",
+  "editorial",
+  "vintage",
+  "mauve",
+  "rose",
+  "ivory"
+],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.145.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bella Époque Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bella Époque Dark-color-theme.json"
+      },
+      {
+        "label": "Bella Époque Light",
+        "uiTheme": "vs",
+        "path": "./themes/Bella Époque light-color-theme.json"
+      }
+    ]
+  }
+}
