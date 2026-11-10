@@ -3,6 +3,10 @@
   "displayName": "Bella Époque",
   "description": "A vintage editorial-inspired VS Code theme featuring warm ivory, dusty mauve, muted rose, terracotta, and deep espresso tones. Available in Light and Dark variants.",
   "publisher": "noorainkhan",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Noorain230/bella-epoque.git"
+},
   "keywords": [
   "theme",
   "editorial",
